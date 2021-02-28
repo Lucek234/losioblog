@@ -1,0 +1,2 @@
+1. Wejdź na GitHub i stwórz nowe repozytorium, razem z README.md.
+2. Wejdź do katalogu i z linii komend wywołaj komendę 'git clone <adres-repozytorium>'
