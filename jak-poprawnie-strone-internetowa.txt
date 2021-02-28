@@ -1,2 +1,8 @@
 1. Wejdź na GitHub i stwórz nowe repozytorium, razem z README.md.
 2. Wejdź do katalogu i z linii komend wywołaj komendę 'git clone <adres-repozytorium>'
+3. Dodaj niezbędne elementy, wejdź w repozytorium komendą `cd <nazwa folderu>` i dodaj je do projektu komendą `git add -A`
+4. Stwórz nową wersję projektu komendą `git commit -m "nazwa wersji"
+5. Wysyłamy wersję komendą `git push`
+6. Wejdź na repozytorium i otwórz ustawienia projektu.
+7. Znajdź zakładkę github pages, w Source ustaw main, w directory ustaw "/", i zapisz projekt.
+8. Po odświeżeniu w zakładce Github pages powinien pojawić się link do strony.
